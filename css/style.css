@@ -64,7 +64,7 @@ h1, p, a {
 
 a.transparent {
     background: rgba(0, 0, 0, 0);
-    border: 2px solid;
+    border: double white;
 }
 
 h4 {
@@ -95,7 +95,6 @@ h4 {
     font-size: 40px;
 }
 .content p {
-    /* color: black; */
     margin-bottom: 25px;
     color: #807d7d;
 }
